@@ -219,6 +219,12 @@
       "settings": {
         "heading": "yayy it worked"
       }
+    },
+    "1658461492f1b747a9": {
+      "type": "heading",
+      "settings": {
+        "heading": "yoo"
+      }
     }
   },
   "order": [
@@ -229,6 +235,7 @@
     "video",
     "multicolumn",
     "165846005882b0121c",
-    "16584601322aac7b45"
+    "16584601322aac7b45",
+    "1658461492f1b747a9"
   ]
 }
