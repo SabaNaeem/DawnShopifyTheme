@@ -213,6 +213,12 @@
       "settings": {
         "heading": "HEHE I'M THE PRO"
       }
+    },
+    "16584601322aac7b45": {
+      "type": "heading",
+      "settings": {
+        "heading": ""
+      }
     }
   },
   "order": [
@@ -222,6 +228,7 @@
     "collage",
     "video",
     "multicolumn",
-    "165846005882b0121c"
+    "165846005882b0121c",
+    "16584601322aac7b45"
   ]
 }
